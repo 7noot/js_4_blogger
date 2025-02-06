@@ -1,6 +1,9 @@
 <script>
 
-var players = [];
+
+
+    var players2 = [];
+    var players = [];
     var iframes = [];
 
     function onYouTubeIframeAPIReady() {
